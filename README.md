@@ -8,7 +8,7 @@ This is a repository for Data analysis and Machine Learning projects that I have
 4. Comparing ML classification models on diabetes datasets. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/ML_on-classification_problem)
 5. Water quality classification. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/Water%20Quality%20Classification)
 6. AI in Healthcare. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/AI%20in%20Healthcare)
-6. Speech Translation System. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/Speech%20Translation%20Project)
+6. Speech Translation System. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/Speech%20Translation%20System)
 
 
 ## Online publication
