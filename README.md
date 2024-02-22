@@ -6,7 +6,7 @@ This is a repository for Data analysis and Machine Learning projects that I have
 2. Using regression models to analyze and predict the energy consumption of appliances. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/Energy_consumption_and_weather_time_series_analysis)
 3. Kaggle competition on using ML models to predict the survivals on the Titanic ship. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/Kaggle_challenge)
 4. Comparing ML classification models on diabetes datasets. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/ML_on-classification_problem)
-5. Comparing ML classification models on diabetes datasets. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/Water%20Quality%20Classification)
+5. Water quality classification. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/Water%20Quality%20Classification)
 6. AI in Healthcare. [Documentation](https://github.com/shimariane/Data_analysis_and_ML_projects/tree/main/AI%20in%20Healthcare)
 
 ## Online publication
